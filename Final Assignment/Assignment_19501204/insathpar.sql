@@ -1,0 +1,6 @@
+LOAD DATA LOCAL
+	INFILE	'AthleteParticipation.csv'
+	INTO TABLE AthleteParticipation
+	FIELDS TERMINATED BY ',' ENCLOSED BY '"'
+	LINES TERMINATED BY '\n'
+	IGNORE 1 ROWS;

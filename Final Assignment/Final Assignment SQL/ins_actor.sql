@@ -1,0 +1,23 @@
+INSERT INTO Actor(actor_ID, firstname, lastname, gender)
+VALUES
+    ('A-00', 'Joaquin', 'Phoenix', 'M'),
+    ('A-01', 'Robert', 'De Niro', 'M'),
+    ('A-02', 'Rami', 'Malek', 'M'),
+    ('A-03', 'Renee', 'Zellweger', 'F'),
+    ('A-04', 'Brad', 'Pitt', 'M'),
+    ('A-05', 'Christian', 'Bale', 'M'),
+    ('A-06', 'Sasha', 'Baron Cohen', 'M'),
+    ('A-07', 'Chadwick', 'Bosman', 'M'),
+    ('A-08', 'Jodie', 'Foster', 'F'),
+    ('A-09', 'Glenn', 'Close', 'F'),
+    ('A-10', 'Adam', 'Driver', 'M'),
+    ('A-11', 'Michael', 'B. Jordan', 'M'),
+    ('A-12', 'Letitia', 'Wright', 'F'),
+    ('A-13', 'John', 'David Washington', 'M'),
+    ('A-14', 'Laura', 'Dern', 'F'),
+    ('A-15', 'Frances', 'McDormand', 'F'),
+    ('A-16', 'Aisling', 'Francoisi', 'F'),
+    ('A-17', 'Magnolia', 'Maymuru', 'F'),
+    ('A-18', 'Will', 'Smith', 'M'),
+    ('A-19', 'Nicole', 'Kidman', 'F'),
+    ('A-20', 'Andrew', 'Garfield', 'M');
